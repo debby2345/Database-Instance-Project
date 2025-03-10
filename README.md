@@ -4,4 +4,4 @@
 Selected the "Standard" creation method for the database instance.
 Choose the database engine as MySQL. 
 Below is the image
-![Database engine](/engine-mysql.png)
+![Database engine](/engine_mysql.PNG)
