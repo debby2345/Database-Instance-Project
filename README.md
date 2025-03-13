@@ -40,4 +40,11 @@ Enabled automated backups with a backup retention period of 1 day.
 Selected "No preference" for the backup window.
 ![db backup](/db_backup.PNG)
 
+### Maintenance and Backup
+Enabled auto-minor version upgrade for maintenance.
+![maintenance](/maintenance_type.PNG)
+Used the default AWS KMS key for encryption.
+![encryption](/encryption.PNG)
 
+### Database Instance Successfully Created
+![Database-Instance-Project](/db_successful.PNG)
